@@ -1,0 +1,908 @@
+﻿  Pass 1을 시작하고 있습니다.
+  /DEFAULTLIB:MSVCRT을(를) 처리했습니다.
+  /DEFAULTLIB:OLDNAMES을(를) 처리했습니다.
+  /DEFAULTLIB:msvcprt을(를) 처리했습니다.
+  /DEFAULTLIB:uuid.lib을(를) 처리했습니다.
+  /DEFAULTLIB:libmysql.lib을(를) 처리했습니다.
+  라이브러리를 검색하고 있습니다.
+      libmysql.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+        __imp__GetStdHandle@4을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetConsoleMode@8을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__SetConsoleMode@8을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__ReadConsoleInputW@16을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__FillConsoleOutputCharacterW@20을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__SetConsoleCursorPosition@8을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__SetConsoleTextAttribute@8을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetConsoleWindow@0을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_KERNEL32을(를) 찾았습니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __NULL_IMPORT_DESCRIPTOR을(를) 찾았습니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        KERNEL32_NULL_THUNK_DATA을(를) 찾았습니다.
+          kernel32.lib(KERNEL32.dll)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+        __imp__RegCloseKey@4을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)을(를) 로드했습니다.
+        __imp__RegOpenKeyExW@20을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)을(를) 로드했습니다.
+        __imp__RegQueryValueExW@24을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)을(를) 로드했습니다.
+        __imp__RegSetValueExW@24을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_ADVAPI32을(를) 찾았습니다.
+          advapi32.lib(ADVAPI32.dll)에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)을(를) 로드했습니다.
+        ADVAPI32_NULL_THUNK_DATA을(를) 찾았습니다.
+          advapi32.lib(ADVAPI32.dll)에서 참조됩니다.
+          advapi32.lib(ADVAPI32.dll)을(를) 로드했습니다.
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\MSVCRT.lib 검색 중:
+        "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(new_scalar.obj)을(를) 로드했습니다.
+        "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(delete_scalar_size.obj)을(를) 로드했습니다.
+        _atexit을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(utility.obj)을(를) 로드했습니다.
+        __chkstk을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(chkstk.obj)을(를) 로드했습니다.
+        "const type_info::`vftable'" (??_7type_info@@6B@)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(std_type_info_static.obj)을(를) 로드했습니다.
+        _mainCRTStartup을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)을(를) 로드했습니다.
+        "void __cdecl __scrt_throw_std_bad_alloc(void)" (?__scrt_throw_std_bad_alloc@@YAXXZ)을(를) 찾았습니다.
+          MSVCRT.lib(new_scalar.obj)에서 참조됩니다.
+          MSVCRT.lib(throw_bad_alloc.obj)을(를) 로드했습니다.
+        "void __cdecl operator delete(void *)" (??3@YAXPAX@Z)을(를) 찾았습니다.
+          MSVCRT.lib(delete_scalar_size.obj)에서 참조됩니다.
+          MSVCRT.lib(delete_scalar.obj)을(를) 로드했습니다.
+        ___isa_available_init을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(cpu_disp.obj)을(를) 로드했습니다.
+        __get_startup_argv_mode을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(argv_mode.obj)을(를) 로드했습니다.
+        ___scrt_is_ucrt_dll_in_use을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(ucrt_detection.obj)을(를) 로드했습니다.
+        ___scrt_fastfail을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(utility_desktop.obj)을(를) 로드했습니다.
+        __SEH_prolog4을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(sehprolg4.obj)을(를) 로드했습니다.
+        __except_handler4을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(sehprolg4.obj)에서 참조됩니다.
+          MSVCRT.lib(chandler4gs.obj)을(를) 로드했습니다.
+        ___guard_check_icall_fptr을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(guard_support.obj)을(를) 로드했습니다.
+        ___security_init_cookie을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(gs_support.obj)을(를) 로드했습니다.
+        __matherr을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(matherr.obj)을(를) 로드했습니다.
+        __get_startup_commit_mode을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(commit_mode.obj)을(를) 로드했습니다.
+        __get_startup_file_mode을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(file_mode.obj)을(를) 로드했습니다.
+        __get_startup_new_mode을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(new_mode.obj)을(를) 로드했습니다.
+        __get_startup_thread_locale_mode을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(thread_locale.obj)을(를) 로드했습니다.
+        "void __cdecl __scrt_initialize_type_info(void)" (?__scrt_initialize_type_info@@YAXXZ)을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(tncleanup.obj)을(를) 로드했습니다.
+        __should_initialize_environment을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(env_mode.obj)을(를) 로드했습니다.
+        __initialize_default_precision을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(default_precision.obj)을(를) 로드했습니다.
+        __initialize_invalid_parameter_handler을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(invalid_parameter_handler.obj)을(를) 로드했습니다.
+        __initialize_denormal_control을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(denormal_control.obj)을(를) 로드했습니다.
+        ___scrt_initialize_default_local_stdio_options을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(default_local_stdio_options.obj)을(를) 로드했습니다.
+        ___scrt_is_user_matherr_present을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(matherr_detection.obj)을(를) 로드했습니다.
+        ___scrt_get_dyn_tls_init_callback을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(dyn_tls_init.obj)을(를) 로드했습니다.
+        ___scrt_get_dyn_tls_dtor_callback을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(dyn_tls_dtor.obj)을(를) 로드했습니다.
+        __RTC_Initialize을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(initsect.obj)을(를) 로드했습니다.
+        ___xi_a을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          MSVCRT.lib(initializers.obj)을(를) 로드했습니다.
+  /DEFAULTLIB:kernel32.lib을(를) 처리했습니다.
+   /DISALLOWLIB:msvcrtd.lib을(를) 처리했습니다.
+   /DISALLOWLIB:libcmt.lib을(를) 처리했습니다.
+   /DISALLOWLIB:libcmtd.lib을(를) 처리했습니다.
+  /DEFAULTLIB:vcruntime.lib을(를) 처리했습니다.
+   /DISALLOWLIB:vcruntimed.lib을(를) 처리했습니다.
+   /DISALLOWLIB:libvcruntime.lib을(를) 처리했습니다.
+   /DISALLOWLIB:libvcruntimed.lib을(를) 처리했습니다.
+  /DEFAULTLIB:ucrt.lib을(를) 처리했습니다.
+   /DISALLOWLIB:ucrtd.lib을(를) 처리했습니다.
+   /DISALLOWLIB:libucrt.lib을(를) 처리했습니다.
+   /DISALLOWLIB:libucrtd.lib을(를) 처리했습니다.
+        ___security_cookie을(를) 찾았습니다.
+          MSVCRT.lib(sehprolg4.obj)에서 참조됩니다.
+          MSVCRT.lib(chandler4gs.obj)에서 참조됩니다.
+          MSVCRT.lib(gs_support.obj)에서 참조됩니다.
+          MSVCRT.lib(gs_cookie.obj)을(를) 로드했습니다.
+        @__security_check_cookie@4을(를) 찾았습니다.
+          MSVCRT.lib(sehprolg4.obj)에서 참조됩니다.
+          MSVCRT.lib(chandler4gs.obj)에서 참조됩니다.
+          MSVCRT.lib(secchk.obj)을(를) 로드했습니다.
+        ___report_gsfailure을(를) 찾았습니다.
+          MSVCRT.lib(secchk.obj)에서 참조됩니다.
+          MSVCRT.lib(gs_report.obj)을(를) 로드했습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\OLDNAMES.lib 검색 중:
+        _getch을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          OLDNAMES.lib(getch.obj)을(를) 로드했습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\msvcprt.lib 검색 중:
+        "__declspec(dllimport) public: __thiscall std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QAE@H@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: __thiscall std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QAE@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "void __cdecl std::_Xinvalid_argument(char const *)" (?_Xinvalid_argument@std@@YAXPBD@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPBD@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPBD@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPAV_Facet_base@1@@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(locale0_implib.obj)을(를) 로드했습니다.
+        "__declspec(dllimport) public: __thiscall std::locale::id::operator unsigned int(void)" (__imp_??Bid@locale@std@@QAEIXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: static unsigned int __cdecl std::ctype<char>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (__imp_?_Getcat@?$ctype@D@std@@SAIPAPBVfacet@locale@2@PBV42@@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: class std::locale __thiscall std::ios_base::getloc(void)const " (__imp_?getloc@ios_base@std@@QBE?AVlocale@2@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) protected: __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: virtual __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::~basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sgetc(void)" (__imp_?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::snextc(void)" (__imp_?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (__imp_?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: virtual __thiscall std::basic_ios<char,struct std::char_traits<char> >::~basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: void __thiscall std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) protected: __thiscall std::basic_ios<char,struct std::char_traits<char> >::basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: void __thiscall std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@H@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: __thiscall std::basic_istream<char,struct std::char_traits<char> >::basic_istream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *,bool)" (__imp_??0?$basic_istream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: virtual __thiscall std::basic_istream<char,struct std::char_traits<char> >::~basic_istream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_istream@DU?$char_traits@D@std@@@std@@UAE@XZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: bool __thiscall std::basic_istream<char,struct std::char_traits<char> >::_Ipfx(bool)" (__imp_?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QAE_N_N@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "protected: virtual void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::imbue(class std::locale const &)" (?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEXABVlocale@2@@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "protected: virtual int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sync(void)" (?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "protected: virtual class std::basic_streambuf<char,struct std::char_traits<char> > * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::setbuf(char *,__int64)" (?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEPAV12@PAD_J@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "protected: virtual __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::xsputn(char const *,__int64)" (?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "protected: virtual __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::xsgetn(char *,__int64)" (?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "protected: virtual int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::uflow(void)" (?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "protected: virtual __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::showmanyc(void)" (?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "public: virtual void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Unlock(void)" (?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "public: virtual void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Lock(void)" (?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) public: static class std::locale::id std::ctype<char>::id" (__imp_?id@?$ctype@D@std@@2V0locale@2@A)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_MSVCP140을(를) 찾았습니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+        MSVCP140_NULL_THUNK_DATA을(를) 찾았습니다.
+          msvcprt.lib(MSVCP140.dll)에서 참조됩니다.
+          msvcprt.lib(MSVCP140.dll)을(를) 로드했습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\vcruntime.lib 검색 중:
+        ___std_terminate을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        ___std_exception_copy을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(throw_bad_alloc.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        ___std_exception_destroy을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(throw_bad_alloc.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        __CxxThrowException@8을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          MSVCRT.lib(throw_bad_alloc.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        ___CxxFrameHandler3을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        _memcpy을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        _memmove을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        _memset을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          tui.obj에서 참조됩니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        ___current_exception을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        ___current_exception_context을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        __except_handler4_common을(를) 찾았습니다.
+          MSVCRT.lib(chandler4gs.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        ___std_type_info_destroy_list을(를) 찾았습니다.
+          MSVCRT.lib(tncleanup.obj)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_VCRUNTIME140을(를) 찾았습니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+        VCRUNTIME140_NULL_THUNK_DATA을(를) 찾았습니다.
+          vcruntime.lib(VCRUNTIME140.dll)에서 참조됩니다.
+          vcruntime.lib(VCRUNTIME140.dll)을(를) 로드했습니다.
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrt.lib 검색 중:
+        __imp___invalid_parameter_noinfo_noreturn을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __imp___errno을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__exit을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          tui.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__strtol을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)을(를) 로드했습니다.
+        __imp___itoa을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__wcstombs을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          tui.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__system을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          tui.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __imp___putws을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp____stdio_common_vswprintf을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp____stdio_common_vswscanf을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__fclose을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__fgets을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__fopen을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__putchar을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp__puts을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp____stdio_common_vfprintf을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __imp___access을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)을(를) 로드했습니다.
+        __imp___wassert을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __imp___mkdir을(를) 찾았습니다.
+          p-3.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)을(를) 로드했습니다.
+        __imp___beep을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-process-l1-1-0.dll)을(를) 로드했습니다.
+        __putwch을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)을(를) 로드했습니다.
+        __getwch을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)을(를) 로드했습니다.
+        _setlocale을(를) 찾았습니다.
+          tui.obj에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)을(를) 로드했습니다.
+        __callnewh을(를) 찾았습니다.
+          MSVCRT.lib(new_scalar.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)을(를) 로드했습니다.
+        _malloc을(를) 찾았습니다.
+          MSVCRT.lib(new_scalar.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)을(를) 로드했습니다.
+        __seh_filter_dll을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __configure_narrow_argv을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __initialize_narrow_environment을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __initialize_onexit_table을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __register_onexit_function을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __execute_onexit_table을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __crt_atexit을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __crt_at_quick_exit을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __cexit을(를) 찾았습니다.
+          MSVCRT.lib(utility.obj)에서 참조됩니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __seh_filter_exe을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __set_app_type을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        ___setusermatherr을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)을(를) 로드했습니다.
+        __get_initial_narrow_environment을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __initterm을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __initterm_e을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __exit을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __set_fmode을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        ___p___argc을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        ___p___argv을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __c_exit을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __register_thread_local_exe_atexit_callback을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __configthreadlocale을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)을(를) 로드했습니다.
+        __set_new_mode을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)을(를) 로드했습니다.
+        ___p__commode을(를) 찾았습니다.
+          MSVCRT.lib(exe_main.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        _free을(를) 찾았습니다.
+          MSVCRT.lib(delete_scalar.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)을(를) 로드했습니다.
+        _terminate을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __controlfp_s을(를) 찾았습니다.
+          MSVCRT.lib(default_precision.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __getch을(를) 찾았습니다.
+          OLDNAMES.lib(getch.obj)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-runtime-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-convert-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-stdio-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-filesystem-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-process-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-process-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-process-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-conio-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-locale-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-heap-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)을(를) 로드했습니다.
+        __IMPORT_DESCRIPTOR_api-ms-win-crt-math-l1-1-0을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-convert-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-stdio-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-filesystem-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-process-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-process-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-process-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-conio-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-locale-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-heap-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)을(를) 로드했습니다.
+        api-ms-win-crt-math-l1-1-0_NULL_THUNK_DATA을(를) 찾았습니다.
+          ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)에서 참조됩니다.
+          ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)을(를) 로드했습니다.
+      libmysql.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+        __imp__IsProcessorFeaturePresent@4을(를) 찾았습니다.
+          MSVCRT.lib(cpu_disp.obj)에서 참조됩니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          MSVCRT.lib(gs_report.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__IsDebuggerPresent@0을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__UnhandledExceptionFilter@4을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          MSVCRT.lib(gs_report.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__SetUnhandledExceptionFilter@4을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          MSVCRT.lib(gs_report.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetStartupInfoW@4을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetModuleHandleW@4을(를) 찾았습니다.
+          MSVCRT.lib(utility_desktop.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__QueryPerformanceCounter@4을(를) 찾았습니다.
+          MSVCRT.lib(gs_support.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetCurrentProcessId@0을(를) 찾았습니다.
+          MSVCRT.lib(gs_support.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetCurrentThreadId@0을(를) 찾았습니다.
+          MSVCRT.lib(gs_support.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetSystemTimeAsFileTime@4을(를) 찾았습니다.
+          MSVCRT.lib(gs_support.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__InitializeSListHead@4을(를) 찾았습니다.
+          MSVCRT.lib(tncleanup.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__GetCurrentProcess@0을(를) 찾았습니다.
+          MSVCRT.lib(gs_report.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+        __imp__TerminateProcess@8을(를) 찾았습니다.
+          MSVCRT.lib(gs_report.obj)에서 참조됩니다.
+          kernel32.lib(KERNEL32.dll)을(를) 로드했습니다.
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\msvcprt.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrt.lib 검색 중:
+      libmysql.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  라이브러리를 검색하고 있습니다.
+      libmysql.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\MSVCRT.lib 검색 중:
+        ___scrt_stub_for_acrt_initialize을(를) 찾았습니다.
+          MSVCRT.lib(ucrt_stubs.obj)을(를) 로드했습니다.
+        __filter_x86_sse2_floating_point_exception_default을(를) 찾았습니다.
+          MSVCRT.lib(x86_exception_filter.obj)을(를) 로드했습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\msvcprt.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrt.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  라이브러리를 검색하고 있습니다.
+      libmysql.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\msvcprt.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrt.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  라이브러리를 검색하고 있습니다.
+      libmysql.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\msvcprt.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrt.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  Pass 1이 끝났습니다.
+  라이브러리를 검색하고 있습니다.
+      libmysql.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\MSVCRT.lib 검색 중:
+        __load_config_used을(를) 찾았습니다.
+          MSVCRT.lib(loadcfg.obj)을(를) 로드했습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\msvcprt.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86\ucrt.lib 검색 중:
+      libmysql.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\advapi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib 검색 중:
+  라이브러리가 검색되었습니다.
+  rc.exe 호출 중:
+   /v
+   /x
+   /fo
+   "C:\Users\satur\AppData\Local\Temp\lnk{54976DAF-7E32-4D7D-BB97-FE2DE74D63B9}.tmp"
+   "C:\Users\satur\AppData\Local\Temp\lnk{6511D19E-8490-41A2-9C31-6625F7EE6FAA}.tmp"
+  Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+  
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  
+  Using codepage 949 as default
+  Creating C:\Users\satur\AppData\Local\Temp\lnk{54976DAF-7E32-4D7D-BB97-FE2DE74D63B9}.tmp
+  
+  
+  C:\Users\satur\AppData\Local\Temp\lnk{6511D19E-8490-41A2-9C31-6625F7EE6FAA}.tmp.
+  Writing 24:1,	lang:0x409,	size 381
+  cvtres.exe 호출 중:
+   /machine:x86
+   /verbose
+   /out:"C:\Users\satur\AppData\Local\Temp\lnk{6E57CAF7-6F52-4E66-8C98-11EF906E65CB}.tmp"
+   /readonly
+   "C:\Users\satur\AppData\Local\Temp\lnk{54976DAF-7E32-4D7D-BB97-FE2DE74D63B9}.tmp"
+  Microsoft (R) Windows Resource To Object Converter 버전 14.35.32215.0
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  리소스를 추가하고 있습니다. 형식:MANIFEST, 이름:1, 언어:0x0409, 플래그:0x30, 크기:381
+p-3.obj : error LNK2019: _mysql_init@4"void __cdecl setup(void)" (?setup@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+p-3.obj : error LNK2019: _mysql_real_connect@32"void __cdecl setup(void)" (?setup@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+p-3.obj : error LNK2019: _mysql_query@8"void __cdecl wpExit(void)" (?wpExit@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+p-3.obj : error LNK2019: _mysql_store_result@4"void __cdecl wpExit(void)" (?wpExit@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+p-3.obj : error LNK2019: _mysql_free_result@4"void __cdecl wpExit(void)" (?wpExit@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+p-3.obj : error LNK2019: _mysql_fetch_row@4"void __cdecl wpExit(void)" (?wpExit@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+p-3.obj : error LNK2019: _mysql_close@4"void __cdecl wpExit(void)" (?wpExit@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+tui.obj : error LNK2019: _wprintf_init 함수에서 참조되는 확인할 수 없는 외부 기호
+tui.obj : error LNK2019: _printf_fixWindows10 함수에서 참조되는 확인할 수 없는 외부 기호
+libmysql.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+  사용되지 않은 라이브러리:
+    libmysql.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\user32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\gdi32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\winspool.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\comdlg32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\shell32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\ole32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\oleaut32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\uuid.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbc32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x86\odbccp32.lib
+C:\Users\satur\OneDrive\바탕 화면\wordprocessor (2)\Debug\wordprocessor.exe : fatal error LNK1120: 9개의 확인할 수 없는 외부 참조입니다.
